@@ -84,8 +84,8 @@ function create_config( )
     "plugins",
     "tools"
  },
-    sudo_users = {157059515},
-    admins = {},
+    sudo_users = {238886119},
+    admins = {238886119},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v1
